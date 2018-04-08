@@ -11,7 +11,7 @@ public class UserControl {
 	}
 	
 	public void fun1(){
-		System.out.println("哟一个用户---");
+		System.out.println("哟一个用户---黄色黑色合同的空间");
 	}
 	
 	public static void main(String[] args) {
