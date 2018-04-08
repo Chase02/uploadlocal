@@ -11,10 +11,10 @@ public class UserControl {
 	}
 	
 	public void fun1(){
-		System.out.println("哟一个用户---黄色黑色合同的空间");
+		System.out.println("哟一个用户---黄色黑色合同的空间****");
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("学习测试中");
+		System.out.println("学习测试中------");
 	}
 }
