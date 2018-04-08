@@ -10,6 +10,10 @@ public class UserControl {
 		System.out.println("text-");
 	}
 	
+	public void fun1(){
+		System.out.println("哟一个用户---");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("学习测试中");
 	}
